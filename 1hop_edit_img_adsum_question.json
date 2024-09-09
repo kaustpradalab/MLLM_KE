@@ -1,0 +1,147 @@
+[
+    {
+        "image": "imagery\\Q2042.jpg",
+        "triples": [
+            [
+                "Q2042",
+                "P19",
+                "Q648"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q2042",
+                "P19",
+                "Q31026"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q2042",
+                "P19",
+                "Q31026"
+            ]
+        ],
+        "questions": [
+            "What is the birthplace of the person depicted in the image?",
+            "Where was the person in the image born?",
+            "In which location was the person in the image born?"
+        ]
+    },
+    {
+        "image": "imagery\\Q107451258.jpg",
+        "triples": [
+            [
+                "Q107451258",
+                "P27",
+                "Q790"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q107451258",
+                "P27",
+                "Q1037"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q107451258",
+                "P27",
+                "Q1037"
+            ]
+        ],
+        "questions": [
+            "Who is the person in the image a citizen of?",
+            "What is the country of citizenship of the person in the image?",
+            "Which country does the person in the image hold citizenship in?"
+        ]
+    },
+    {
+        "image": "imagery\\Q3047551.jpg",
+        "triples": [
+            [
+                "Q3047551",
+                "P103",
+                "Q9078"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q3047551",
+                "P103",
+                "Q9211"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q3047551",
+                "P103",
+                "Q9211"
+            ]
+        ],
+        "questions": [
+            "What is the native language of the person in the image?",
+            "Which language does the person in the image speak as their native language?",
+            "What is the first language of the person depicted in the image?"
+        ]
+    },
+    {
+        "image": "imagery\\Q983.jpg",
+        "triples": [
+            [
+                "Q983",
+                "P35",
+                "Q57385"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q983",
+                "P35",
+                "Q387491"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q983",
+                "P35",
+                "Q387491"
+            ]
+        ],
+        "questions": [
+            "Who is the head of state of the country depicted in the image?",
+            "What is the name of the person who serves as the head of state of the country shown in the image?",
+            "Who holds the highest position in the government of the country represented in the image?"
+        ]
+    },
+    {
+        "image": "imagery\\Q57363.jpg",
+        "triples": [
+            [
+                "Q57363",
+                "P19",
+                "Q583184"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q57363",
+                "P19",
+                "Q478038"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q57363",
+                "P19",
+                "Q478038"
+            ]
+        ],
+        "questions": [
+            "What is the birthplace of the person depicted in the image?",
+            "Where was the person in the image born?",
+            "What location is the birthplace of the individual shown in the image?"
+        ]
+    }
+]

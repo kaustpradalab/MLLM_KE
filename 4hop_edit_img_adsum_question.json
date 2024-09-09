@@ -1,0 +1,352 @@
+[
+    {
+        "image": "imagery\\Q736.jpg",
+        "triples": [
+            [
+                "Q736",
+                "P6",
+                "Q112075625"
+            ],
+            [
+                "Q112075625",
+                "P27",
+                "Q736"
+            ],
+            [
+                "Q736",
+                "P35",
+                "Q112075625"
+            ],
+            [
+                "Q112075625",
+                "P19",
+                "Q8652"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q736",
+                "P6",
+                "Q112075625"
+            ],
+            [
+                "Q112075625",
+                "P27",
+                "Q1014"
+            ],
+            [
+                "Q1014",
+                "P35",
+                "Q1271632"
+            ],
+            [
+                "Q1271632",
+                "P19",
+                "Q210007"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q112075625",
+                "P27",
+                "Q1014"
+            ],
+            [
+                "Q1014",
+                "P35",
+                "Q1271632"
+            ],
+            [
+                "Q1271632",
+                "P19",
+                "Q210007"
+            ]
+        ],
+        "questions": [
+            "What is the name of the person who serves as both the head of government and head of state of the country depicted in the image?",
+            "Who is the individual that holds the highest government position and is a citizen of the country shown in the image?",
+            "In which location was the person, who is both the head of government and head of state of the country in the image, born?"
+        ]
+    },
+    {
+        "image": "imagery\\Q190464.jpg",
+        "triples": [
+            [
+                "Q190464",
+                "P169",
+                "Q1666888"
+            ],
+            [
+                "Q1666888",
+                "P69",
+                "Q780745"
+            ],
+            [
+                "Q780745",
+                "P17",
+                "Q145"
+            ],
+            [
+                "Q145",
+                "P38",
+                "Q25224"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q190464",
+                "P169",
+                "Q1666888"
+            ],
+            [
+                "Q1666888",
+                "P69",
+                "Q496536"
+            ],
+            [
+                "Q496536",
+                "P17",
+                "Q55"
+            ],
+            [
+                "Q55",
+                "P38",
+                "Q206600"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q1666888",
+                "P69",
+                "Q496536"
+            ],
+            [
+                "Q496536",
+                "P17",
+                "Q55"
+            ],
+            [
+                "Q55",
+                "P38",
+                "Q206600"
+            ]
+        ],
+        "questions": [
+            "What is the currency used in the country where the university that the CEO of the company in the image was educated at is located?",
+            "Which currency is used in the country where the university that the chief executive officer of the company in the image attended is situated?",
+            "In which country's currency is the university located where the person who serves as the CEO of the company in the image received education?"
+        ]
+    },
+    {
+        "image": "imagery\\Q1033.jpg",
+        "triples": [
+            [
+                "Q1033",
+                "P35",
+                "Q3510872"
+            ],
+            [
+                "Q3510872",
+                "P27",
+                "Q1033"
+            ],
+            [
+                "Q1033",
+                "P6",
+                "Q3510872"
+            ],
+            [
+                "Q3510872",
+                "P19",
+                "Q8673"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q1033",
+                "P35",
+                "Q22340307"
+            ],
+            [
+                "Q22340307",
+                "P27",
+                "Q774"
+            ],
+            [
+                "Q774",
+                "P6",
+                "Q52183"
+            ],
+            [
+                "Q52183",
+                "P19",
+                "Q50255"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q1033",
+                "P35",
+                "Q22340307"
+            ],
+            [
+                "Q22340307",
+                "P27",
+                "Q774"
+            ],
+            [
+                "Q774",
+                "P6",
+                "Q52183"
+            ],
+            [
+                "Q52183",
+                "P19",
+                "Q50255"
+            ]
+        ],
+        "questions": [
+            "What is the name of the person who serves as the head of state of the country where the company in the image is based?",
+            "Who is the head of government of the country where the person, who is a citizen of the same country as the company in the image, holds a citizenship?",
+            "In which location was the person, who is a citizen of the same country as the company in the image, born?"
+        ]
+    },
+    {
+        "image": "imagery\\Q96.jpg",
+        "triples": [
+            [
+                "Q96",
+                "P35",
+                "Q318508"
+            ],
+            [
+                "Q318508",
+                "P27",
+                "Q96"
+            ],
+            [
+                "Q96",
+                "P6",
+                "Q318508"
+            ],
+            [
+                "Q318508",
+                "P69",
+                "Q222738"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q96",
+                "P35",
+                "Q16297876"
+            ],
+            [
+                "Q16297876",
+                "P27",
+                "Q878"
+            ],
+            [
+                "Q878",
+                "P6",
+                "Q57655"
+            ],
+            [
+                "Q57655",
+                "P69",
+                "Q16525154"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q96",
+                "P35",
+                "Q16297876"
+            ],
+            [
+                "Q16297876",
+                "P27",
+                "Q878"
+            ],
+            [
+                "Q57655",
+                "P69",
+                "Q16525154"
+            ]
+        ],
+        "questions": [
+            "What is the name of the person who is the head of state of the country where the location in the image is situated?",
+            "Who is the head of government of the country where the person, who is a citizen of the country in the image, holds a citizenship?",
+            "Which university did the person, who is educated at, belong to?"
+        ]
+    },
+    {
+        "image": "imagery\\Q754.jpg",
+        "triples": [
+            [
+                "Q754",
+                "P6",
+                "Q6384971"
+            ],
+            [
+                "Q6384971",
+                "P27",
+                "Q754"
+            ],
+            [
+                "Q754",
+                "P35",
+                "Q97400315"
+            ],
+            [
+                "Q97400315",
+                "P19",
+                "Q1023712"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q754",
+                "P6",
+                "Q1790"
+            ],
+            [
+                "Q1790",
+                "P27",
+                "Q31"
+            ],
+            [
+                "Q31",
+                "P35",
+                "Q155004"
+            ],
+            [
+                "Q155004",
+                "P19",
+                "Q713357"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q754",
+                "P6",
+                "Q1790"
+            ],
+            [
+                "Q1790",
+                "P27",
+                "Q31"
+            ],
+            [
+                "Q155004",
+                "P19",
+                "Q713357"
+            ]
+        ],
+        "questions": [
+            "What is the name of the location depicted in the image that is the birthplace of the person who serves as the head of government of a country?",
+            "Who is the head of state of the country where the person, who is a citizen of a specific country, serves as the head of government?",
+            "In which location was the person born who holds the highest position in the government of the country where another person is a citizen?"
+        ]
+    }
+]

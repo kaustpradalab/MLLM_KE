@@ -1,0 +1,207 @@
+[
+    {
+        "image": "imagery\\Q107254030.jpg",
+        "triples": [
+            [
+                "Q107254030",
+                "P27",
+                "Q774"
+            ],
+            [
+                "Q774",
+                "P30",
+                "Q49"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q107254030",
+                "P27",
+                "Q774"
+            ],
+            [
+                "Q774",
+                "P30",
+                "Q18"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q774",
+                "P30",
+                "Q18"
+            ]
+        ],
+        "questions": [
+            "What continent is the country of citizenship of the person in the image located in?",
+            "In which continent is the country situated where the person in the image holds citizenship?",
+            "Which continent is the country of citizenship of the person in the image a part of?"
+        ]
+    },
+    {
+        "image": "imagery\\Q25597826.jpg",
+        "triples": [
+            [
+                "Q25597826",
+                "P27",
+                "Q813"
+            ],
+            [
+                "Q813",
+                "P6",
+                "Q4060344"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q25597826",
+                "P27",
+                "Q114"
+            ],
+            [
+                "Q114",
+                "P6",
+                "Q195725"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q25597826",
+                "P27",
+                "Q114"
+            ]
+        ],
+        "questions": [
+            "Who is the head of government of the country where the person in the image holds citizenship?",
+            "What is the name of the head of government of the country that the person in the image is a citizen of?",
+            "Who holds the highest position in the government of the country that the person in the image is a citizen of?"
+        ]
+    },
+    {
+        "image": "imagery\\Q498407.jpg",
+        "triples": [
+            [
+                "Q498407",
+                "P17",
+                "Q211"
+            ],
+            [
+                "Q211",
+                "P37",
+                "Q9078"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q498407",
+                "P17",
+                "Q1025"
+            ],
+            [
+                "Q1025",
+                "P37",
+                "Q9078"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q498407",
+                "P17",
+                "Q1025"
+            ],
+            [
+                "Q1025",
+                "P37",
+                "Q9078"
+            ]
+        ],
+        "questions": [
+            "What is the official language of the country where the university in the image is located?",
+            "Which language is the official language of the country where the university depicted in the image is situated?",
+            "What language is designated as the official language of the country where the university shown in the image is situated?"
+        ]
+    },
+    {
+        "image": "imagery\\Q736.jpg",
+        "triples": [
+            [
+                "Q736",
+                "P35",
+                "Q112075625"
+            ],
+            [
+                "Q112075625",
+                "P27",
+                "Q736"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q736",
+                "P35",
+                "Q532423"
+            ],
+            [
+                "Q532423",
+                "P27",
+                "Q30"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q736",
+                "P35",
+                "Q532423"
+            ]
+        ],
+        "questions": [
+            "Who is the head of state of the country depicted in the image?",
+            "What is the name of the head of state of the country where the person in the image holds citizenship?",
+            "Which country is the person in the image a citizen of, where the head of state is located?"
+        ]
+    },
+    {
+        "image": "imagery\\Q3318231.jpg",
+        "triples": [
+            [
+                "Q3318231",
+                "P27",
+                "Q252"
+            ],
+            [
+                "Q252",
+                "P36",
+                "Q3630"
+            ]
+        ],
+        "new_triples": [
+            [
+                "Q3318231",
+                "P27",
+                "Q55"
+            ],
+            [
+                "Q55",
+                "P36",
+                "Q9326"
+            ]
+        ],
+        "edit_triples": [
+            [
+                "Q3318231",
+                "P27",
+                "Q55"
+            ],
+            [
+                "Q55",
+                "P36",
+                "Q9326"
+            ]
+        ],
+        "questions": [
+            "What is the capital of the country where the person in the image holds citizenship?",
+            "Which location serves as the capital of the country that the person in the image is a citizen of?",
+            "In which location is the capital situated of the country where the person in the image holds citizenship?"
+        ]
+    }
+]
